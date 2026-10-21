@@ -45,13 +45,6 @@ Agent 工程 · 复杂系统 · 多元思考。记录思考、验证观点、持
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chengguruchun&layout=compact&langs_count=8&hide_border=true)](https://github.com/chengguruchun?tab=repositories)
 
 
-## 精选
-
-- [从 gossip 到 Consensus：Multi-Agent 如何形成可信的集体认知](https://chengguruchun.github.io/articles/gossip-evidence-consensus-multi-agent.html)
-- [ReAct 只是内循环：长周期 Agent 为什么开始需要 Harness 与 Runtime](https://chengguruchun.github.io/articles/react-is-the-inner-loop-long-running-agent-harness-runtime.html)
-- [从 Spring、Dubbo 到 DeepSeek Harness：运行时架构为什么正在趋同](https://chengguruchun.github.io/articles/spring-dubbo-deepseek-harness-runtime.html)
-- [IoT Agent 化：从设备能力到 Physical World Runtime](https://chengguruchun.github.io/articles/iot-agent-from-device-to-physical-world-runtime.html)
-
 ## 联系
 
 - 站内作者页：[chengguruchun.github.io/about](https://chengguruchun.github.io/about/)
