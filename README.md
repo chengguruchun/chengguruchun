@@ -8,18 +8,35 @@ Agent 工程 · 复杂系统 · 多元思考。记录思考、验证观点、持
 
 ---
 
-## 我在写什么
+## 技术栈
 
-| 栏目 | 内容 | 入口 |
-|---|---|---|
-| Articles | 按文章风格写下的结论（结论先行 + 映射表 + 图） | [articles](https://chengguruchun.github.io/articles/) |
-| Diverse Lab | 跨学科、多元写法（Question → Thinking → Open Questions） | [diverse](https://chengguruchun.github.io/diverse/) |
-| Projects | 真实仓库的问题 → 架构 → 教训 | [projects](https://chengguruchun.github.io/projects/) |
-| Videos | 讲解与白板 | [videos](https://chengguruchun.github.io/videos/) |
-| Hot Words | 热词 | [times](https://chengguruchun.github.io/times/) |
-| About | 作者与 The Road Here | [about](https://chengguruchun.github.io/about/) |
+**后端与分布式系统**
 
-当前知识条目 **37** 条（Articles 23 · Diverse Lab 9 · Times 5）。清单以 [`api/catalog.json`](https://chengguruchun.github.io/api/catalog.json) 为唯一权威。
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Dubbo](https://img.shields.io/badge/Apache_Dubbo-D22128?style=flat-square&logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Pulsar](https://img.shields.io/badge/Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**云原生与 Agent 工程**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B61FF?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-555555?style=flat-square)
+![Runtime](https://img.shields.io/badge/Agent_Runtime-0A7EA4?style=flat-square)
+
+## 语言占比
+
+<!-- 语言占比由 GitHub 仓库代码统计动态生成，不手动填写估算百分比 -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chengguruchun&layout=compact&langs_count=8&hide_border=true)](https://github.com/chengguruchun?tab=repositories)
+
 
 ## 精选
 
