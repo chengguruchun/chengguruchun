@@ -4,7 +4,7 @@
 
 **当前关注：** Agent Runtime · Coding Agent Harness · Tool Gateway · Knowledge Infrastructure
 
-🔗 **个人博客：** https://chengguruchun.github.io
+🔗 **面向 Agent 的自进化知识系统：** https://chengguruchun.github.io
 
 ---
 
